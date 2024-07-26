@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_one">#171E44</color>
+    <color name="primary_two">#324071</color>
+    <color name="primary_three">#21294C</color>
+    <color name="primary_four">#3A4B88</color>
+    <color name="primary_five">#EB4036</color>
+    <color name="primary_six">#B11214</color>
+    <color name="primary_seven">#f2f0ea</color>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DetectionApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_one</item>
+        <item name="colorPrimaryVariant">@color/primary_two</item>
+        <item name="colorOnPrimary">@color/primary_two</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/primary_three</item>
+        <item name="colorSecondaryVariant">@color/primary_four</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/primary_two</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.DetectionApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DetectionApp" parent="Base.Theme.DetectionApp" />
+</resources>
